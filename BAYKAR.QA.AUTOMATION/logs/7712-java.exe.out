@@ -1,0 +1,35 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 1704milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1704"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 50845"}
+{"logLevel":"info","message":"Listening on port:50845"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'HomePageSteps.clickHomeLoginButon' and 'HomePageSteps.clickHomeLoginButon'"}
+{"logLevel":"debug","message":"Found TC2.1 : Go Login Page and Check it. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'LoginPageSteps.clickCaptcha' and 'LoginPageSteps.clickCaptcha'"}
+{"logLevel":"debug","message":"Found Click Captcha . in current project scope."}
+{"logLevel":"debug","message":"Comparing 'LoginPageSteps.fillLoginInformation' and 'LoginPageSteps.fillLoginInformation'"}
+{"logLevel":"debug","message":"Found Fill gmail {} and password {} informations . in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tFill gmail {} and password {} informations . : public void fillLoginInformation(String gmail, String password) throws InterruptedException"}
+{"logLevel":"debug","message":"\tTC2.1 : Go Login Page and Check it. : public void clickHomeLoginButon() throws InterruptedException"}
+{"logLevel":"debug","message":"\tClick Captcha . : public void clickCaptcha() throws InterruptedException"}
+Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 24968
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Ağu 27, 2022 10:53:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'TC2.1 : Go Login Page and Check it.' using 'class HomePageSteps.clickHomeLoginButon"}
+{"logLevel":"debug","message":"Executing 'Fill gmail {} and password {} informations .' using 'class LoginPageSteps.fillLoginInformation"}
+{"logLevel":"debug","message":"Executing 'Click Captcha .' using 'class LoginPageSteps.clickCaptcha"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

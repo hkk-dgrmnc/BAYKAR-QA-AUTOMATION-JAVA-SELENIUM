@@ -1,0 +1,543 @@
+27-08-2022 21:08:55.411 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 21:08:55.412 [Gauge] [DEBUG] Found 2 files
+27-08-2022 21:08:55.413 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 21:08:55.413 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:08:55.414 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 21:08:55.414 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:08:55.414 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 21:08:55.414 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62883
+27-08-2022 21:08:57.291 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go Login Page and Check it" > 
+27-08-2022 21:08:57.293 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go Login Page and Check it" parameterizedStepValue:"Go Login Page and Check it" > > 
+27-08-2022 21:08:57.452 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Go Login Page and Check it." > 
+27-08-2022 21:08:57.452 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go Login Page and Check it." parameterizedStepValue:"Go Login Page and Check it." > > 
+27-08-2022 21:08:57.593 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" first" > 
+27-08-2022 21:08:57.593 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"first" parameterizedStepValue:"first" > > 
+27-08-2022 21:09:00.183 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go Login Page and Check it." > 
+27-08-2022 21:09:00.183 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go Login Page and Check it." parameterizedStepValue:"Go Login Page and Check it." > > 
+27-08-2022 21:09:19.401 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+27-08-2022 21:09:19.402 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go Login Page and Check it" parameterizedStepValue:"Go Login Page and Check it" > allSteps:<stepValue:"Go Login Page and Check it." parameterizedStepValue:"Go Login Page and Check it." > > 
+27-08-2022 21:09:19.403 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+27-08-2022 21:09:19.405 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"first" parameterizedStepValue:"first" > filepath:"C:\\BAYKAR.QA.AUTOMATION\\specs\\Main.cpt" lineNumber:2 > > 
+27-08-2022 21:09:26.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"f" > 
+27-08-2022 21:09:26.260 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"f" parameterizedStepValue:"f" > > 
+27-08-2022 21:09:26.261 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+27-08-2022 21:09:26.276 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go Login Page and Check it" parameterizedStepValue:"Go Login Page and Check it" > allSteps:<stepValue:"Go Login Page and Check it." parameterizedStepValue:"Go Login Page and Check it." > > 
+27-08-2022 21:09:26.276 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+27-08-2022 21:09:26.276 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"first" parameterizedStepValue:"first" > filepath:"C:\\BAYKAR.QA.AUTOMATION\\specs\\Main.cpt" lineNumber:2 > > 
+27-08-2022 21:09:26.277 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+27-08-2022 21:09:26.280 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go Login Page and Check it" parameterizedStepValue:"Go Login Page and Check it" > allSteps:<stepValue:"Go Login Page and Check it." parameterizedStepValue:"Go Login Page and Check it." > > 
+27-08-2022 21:09:26.280 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+27-08-2022 21:09:26.280 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"first" parameterizedStepValue:"first" > filepath:"C:\\BAYKAR.QA.AUTOMATION\\specs\\Main.cpt" lineNumber:2 > > 
+27-08-2022 21:09:34.017 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"first" > 
+27-08-2022 21:09:34.026 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"first" parameterizedStepValue:"first" > > 
+27-08-2022 21:09:39.403 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:09:39.404 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:09:39.408 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:09:39.410 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:18:32.769 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Go Login Page and Check it." > 
+27-08-2022 21:18:32.771 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Go Login Page and Check it." parameterizedStepValue:"* Go Login Page and Check it." > > 
+27-08-2022 21:38:15.474 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"F" > 
+27-08-2022 21:38:15.484 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"F" parameterizedStepValue:"F" > > 
+27-08-2022 21:38:16.886 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill" > 
+27-08-2022 21:38:16.897 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill" parameterizedStepValue:"Fill" > > 
+27-08-2022 21:38:17.227 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill " > 
+27-08-2022 21:38:17.239 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill" parameterizedStepValue:"Fill" > > 
+27-08-2022 21:38:18.459 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill lo" > 
+27-08-2022 21:38:18.471 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill lo" parameterizedStepValue:"Fill lo" > > 
+27-08-2022 21:38:19.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill login " > 
+27-08-2022 21:38:19.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill login" parameterizedStepValue:"Fill login" > > 
+27-08-2022 21:38:20.187 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill login in" > 
+27-08-2022 21:38:20.187 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill login in" parameterizedStepValue:"Fill login in" > > 
+27-08-2022 21:38:21.715 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill login informa" > 
+27-08-2022 21:38:21.715 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill login informa" parameterizedStepValue:"Fill login informa" > > 
+27-08-2022 21:38:22.742 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill login informatio" > 
+27-08-2022 21:38:22.743 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill login informatio" parameterizedStepValue:"Fill login informatio" > > 
+27-08-2022 21:38:23.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill login information" > 
+27-08-2022 21:38:23.073 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill login information" parameterizedStepValue:"Fill login information" > > 
+27-08-2022 21:38:23.679 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill login informations" > 
+27-08-2022 21:38:23.691 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill login informations" parameterizedStepValue:"Fill login informations" > > 
+27-08-2022 21:38:56.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill login  informations" > 
+27-08-2022 21:38:56.056 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill login  informations" parameterizedStepValue:"Fill login  informations" > > 
+27-08-2022 21:39:54.583 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gma informations" > 
+27-08-2022 21:39:54.597 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gma informations" parameterizedStepValue:"Fill gma informations" > > 
+27-08-2022 21:39:54.597 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gma informations" > 
+27-08-2022 21:39:54.597 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gma informations" parameterizedStepValue:"Fill gma informations" > > 
+27-08-2022 21:39:55.454 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail informations" > 
+27-08-2022 21:39:55.454 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail informations" parameterizedStepValue:"Fill gmail informations" > > 
+27-08-2022 21:39:57.934 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail  informations" > 
+27-08-2022 21:39:57.944 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail  informations" parameterizedStepValue:"Fill gmail  informations" > > 
+27-08-2022 21:40:00.026 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail < informations" > 
+27-08-2022 21:40:00.037 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+27-08-2022 21:40:00.039 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail < informations" > 
+27-08-2022 21:40:00.041 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+27-08-2022 21:40:00.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail < informations" > 
+27-08-2022 21:40:00.042 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+27-08-2022 21:40:00.046 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail < informations" > 
+27-08-2022 21:40:00.046 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+27-08-2022 21:40:00.626 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <> informations" > 
+27-08-2022 21:40:00.626 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} informations" parameterizedStepValue:"Fill gmail <> informations" parameters:"" > > 
+27-08-2022 21:40:05.684 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gma> informations" > 
+27-08-2022 21:40:05.696 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} informations" parameterizedStepValue:"Fill gmail <gma> informations" parameters:"gma" > > 
+27-08-2022 21:40:06.572 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> informations" > 
+27-08-2022 21:40:06.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} informations" parameterizedStepValue:"Fill gmail <gmail> informations" parameters:"gmail" > > 
+27-08-2022 21:40:08.663 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail>  informations" > 
+27-08-2022 21:40:08.663 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {}  informations" parameterizedStepValue:"Fill gmail <gmail>  informations" parameters:"gmail" > > 
+27-08-2022 21:40:09.956 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and  informations" > 
+27-08-2022 21:40:09.956 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and  informations" parameterizedStepValue:"Fill gmail <gmail> and  informations" parameters:"gmail" > > 
+27-08-2022 21:40:12.312 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password informations" > 
+27-08-2022 21:40:12.312 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password informations" parameterizedStepValue:"Fill gmail <gmail> and password informations" parameters:"gmail" > > 
+27-08-2022 21:40:13.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password  informations" > 
+27-08-2022 21:40:13.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password  informations" parameterizedStepValue:"Fill gmail <gmail> and password  informations" parameters:"gmail" > > 
+27-08-2022 21:40:14.741 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <> informations" > 
+27-08-2022 21:40:14.751 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations" parameterizedStepValue:"Fill gmail <gmail> and password <> informations" parameters:"gmail" parameters:"" > > 
+27-08-2022 21:40:17.602 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <pa> informations" > 
+27-08-2022 21:40:17.612 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations" parameterizedStepValue:"Fill gmail <gmail> and password <pa> informations" parameters:"gmail" parameters:"pa" > > 
+27-08-2022 21:40:18.380 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <pass> informations" > 
+27-08-2022 21:40:18.380 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations" parameterizedStepValue:"Fill gmail <gmail> and password <pass> informations" parameters:"gmail" parameters:"pass" > > 
+27-08-2022 21:40:19.999 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <passwo> informations" > 
+27-08-2022 21:40:19.999 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations" parameterizedStepValue:"Fill gmail <gmail> and password <passwo> informations" parameters:"gmail" parameters:"passwo" > > 
+27-08-2022 21:40:20.604 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <password> informations" > 
+27-08-2022 21:40:20.604 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations" parameterizedStepValue:"Fill gmail <gmail> and password <password> informations" parameters:"gmail" parameters:"password" > > 
+27-08-2022 21:42:16.745 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <password> informations " > 
+27-08-2022 21:42:16.746 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations" parameterizedStepValue:"Fill gmail <gmail> and password <password> informations" parameters:"gmail" parameters:"password" > > 
+27-08-2022 21:42:17.497 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <password> informations ." > 
+27-08-2022 21:42:17.497 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <gmail> and password <password> informations ." parameters:"gmail" parameters:"password" > > 
+27-08-2022 21:42:35.083 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Captcha ." > 
+27-08-2022 21:42:35.090 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Captcha ." parameterizedStepValue:"Click Captcha ." > > 
+27-08-2022 21:43:28.029 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"firs" > 
+27-08-2022 21:43:28.029 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"firs" parameterizedStepValue:"firs" > > 
+27-08-2022 21:43:28.229 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"fir" > 
+27-08-2022 21:43:28.237 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"fir" parameterizedStepValue:"fir" > > 
+27-08-2022 21:43:28.419 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"fi" > 
+27-08-2022 21:43:28.419 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"fi" parameterizedStepValue:"fi" > > 
+27-08-2022 21:43:29.374 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:43:29.377 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:43:35.174 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:43:35.176 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:44:19.868 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:44:19.868 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:44:19.883 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:44:19.886 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:44:34.620 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:44:34.621 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:44:47.622 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TCGo Login Page and Check it." > 
+27-08-2022 21:44:47.630 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TCGo Login Page and Check it." parameterizedStepValue:"TCGo Login Page and Check it." > > 
+27-08-2022 21:44:48.694 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2Go Login Page and Check it." > 
+27-08-2022 21:44:48.694 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2Go Login Page and Check it." parameterizedStepValue:"TC2Go Login Page and Check it." > > 
+27-08-2022 21:44:49.235 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.Go Login Page and Check it." > 
+27-08-2022 21:44:49.244 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.Go Login Page and Check it." parameterizedStepValue:"TC2.Go Login Page and Check it." > > 
+27-08-2022 21:44:51.245 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+27-08-2022 21:44:51.245 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 21:45:19.000 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:45:19.003 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:45:19.176 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"t" > 
+27-08-2022 21:45:19.180 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"t" parameterizedStepValue:"t" > > 
+27-08-2022 21:45:19.181 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+27-08-2022 21:45:19.189 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go Login Page and Check it." parameterizedStepValue:"Go Login Page and Check it." > allSteps:<> > 
+27-08-2022 21:45:19.189 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+27-08-2022 21:45:19.189 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"first" parameterizedStepValue:"first" > filepath:"C:\\BAYKAR.QA.AUTOMATION\\specs\\Main.cpt" lineNumber:2 > > 
+27-08-2022 21:45:28.068 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:45:28.069 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:45:28.074 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:45:28.075 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:45:33.868 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:45:33.869 [Gauge] [ERROR] Parse failure: [[ParseError] C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt:2 Concept should have atleast one step => '']
+27-08-2022 21:45:33.869 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:45:33.869 [Gauge] [ERROR] Parse failure: [[ParseError] C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt:2 Concept should have atleast one step => '']
+27-08-2022 21:46:13.911 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:46:13.916 [Gauge] [ERROR] Parse failure: [[ParseError] C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt:2 Concept should have atleast one step => 'Fill information,be login and check it.']
+27-08-2022 21:46:13.916 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:46:13.916 [Gauge] [ERROR] Parse failure: [[ParseError] C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt:2 Concept should have atleast one step => 'Fill information,be login and check it.']
+27-08-2022 21:46:17.200 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:46:17.202 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:46:27.803 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"*" > 
+27-08-2022 21:46:27.803 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"*" parameterizedStepValue:"*" > > 
+27-08-2022 21:46:37.900 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:46:37.903 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:46:41.415 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:46:41.417 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:46:42.606 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:46:42.606 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:46:42.985 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:46:42.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:46:43.441 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:46:43.443 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:46:44.945 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:46:44.947 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:47:16.049 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+27-08-2022 21:47:16.049 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 21:47:16.054 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+27-08-2022 21:47:16.054 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+27-08-2022 21:47:16.071 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+27-08-2022 21:47:16.071 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 21:47:17.258 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"gmail\" and password \"password\" informations ." > 
+27-08-2022 21:47:17.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <gmail> and password <password> informations ." parameters:"gmail" parameters:"password" > > 
+27-08-2022 21:47:22.270 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"h\" and password \"password\" informations ." > 
+27-08-2022 21:47:22.273 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <h> and password <password> informations ." parameters:"h" parameters:"password" > > 
+27-08-2022 21:47:22.384 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"ha\" and password \"password\" informations ." > 
+27-08-2022 21:47:22.386 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <ha> and password <password> informations ." parameters:"ha" parameters:"password" > > 
+27-08-2022 21:47:23.434 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hak\" and password \"password\" informations ." > 
+27-08-2022 21:47:23.434 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hak> and password <password> informations ." parameters:"hak" parameters:"password" > > 
+27-08-2022 21:47:23.581 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakk\" and password \"password\" informations ." > 
+27-08-2022 21:47:23.594 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakk> and password <password> informations ." parameters:"hakk" parameters:"password" > > 
+27-08-2022 21:47:24.377 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki\" and password \"password\" informations ." > 
+27-08-2022 21:47:24.377 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki> and password <password> informations ." parameters:"hakki" parameters:"password" > > 
+27-08-2022 21:47:24.669 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.\" and password \"password\" informations ." > 
+27-08-2022 21:47:24.669 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.> and password <password> informations ." parameters:"hakki." parameters:"password" > > 
+27-08-2022 21:47:24.818 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.d\" and password \"password\" informations ." > 
+27-08-2022 21:47:24.827 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.d> and password <password> informations ." parameters:"hakki.d" parameters:"password" > > 
+27-08-2022 21:47:24.985 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.de\" and password \"password\" informations ." > 
+27-08-2022 21:47:24.994 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.de> and password <password> informations ." parameters:"hakki.de" parameters:"password" > > 
+27-08-2022 21:47:25.354 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.deg\" and password \"password\" informations ." > 
+27-08-2022 21:47:25.360 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.deg> and password <password> informations ." parameters:"hakki.deg" parameters:"password" > > 
+27-08-2022 21:47:25.486 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degi\" and password \"password\" informations ." > 
+27-08-2022 21:47:25.500 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degi> and password <password> informations ." parameters:"hakki.degi" parameters:"password" > > 
+27-08-2022 21:47:25.720 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degir\" and password \"password\" informations ." > 
+27-08-2022 21:47:25.726 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degir> and password <password> informations ." parameters:"hakki.degir" parameters:"password" > > 
+27-08-2022 21:47:25.946 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirm\" and password \"password\" informations ." > 
+27-08-2022 21:47:25.947 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirm> and password <password> informations ." parameters:"hakki.degirm" parameters:"password" > > 
+27-08-2022 21:47:26.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirme\" and password \"password\" informations ." > 
+27-08-2022 21:47:26.082 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirme> and password <password> informations ." parameters:"hakki.degirme" parameters:"password" > > 
+27-08-2022 21:47:26.240 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmen\" and password \"password\" informations ." > 
+27-08-2022 21:47:26.253 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmen> and password <password> informations ." parameters:"hakki.degirmen" parameters:"password" > > 
+27-08-2022 21:47:26.463 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenc\" and password \"password\" informations ." > 
+27-08-2022 21:47:26.463 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenc> and password <password> informations ." parameters:"hakki.degirmenc" parameters:"password" > > 
+27-08-2022 21:47:26.685 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci\" and password \"password\" informations ." > 
+27-08-2022 21:47:26.690 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci> and password <password> informations ." parameters:"hakki.degirmenci" parameters:"password" > > 
+27-08-2022 21:47:27.285 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.\" and password \"password\" informations ." > 
+27-08-2022 21:47:27.296 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.> and password <password> informations ." parameters:"hakki.degirmenci." parameters:"password" > > 
+27-08-2022 21:47:28.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.e\" and password \"password\" informations ." > 
+27-08-2022 21:47:28.143 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.e> and password <password> informations ." parameters:"hakki.degirmenci.e" parameters:"password" > > 
+27-08-2022 21:47:28.332 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.ee\" and password \"password\" informations ." > 
+27-08-2022 21:47:28.332 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.ee> and password <password> informations ." parameters:"hakki.degirmenci.ee" parameters:"password" > > 
+27-08-2022 21:47:28.529 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee\" and password \"password\" informations ." > 
+27-08-2022 21:47:28.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee> and password <password> informations ." parameters:"hakki.degirmenci.eee" parameters:"password" > > 
+27-08-2022 21:47:29.536 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@\" and password \"password\" informations ." > 
+27-08-2022 21:47:29.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@> and password <password> informations ." parameters:"hakki.degirmenci.eee@" parameters:"password" > > 
+27-08-2022 21:47:30.024 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@g\" and password \"password\" informations ." > 
+27-08-2022 21:47:30.025 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@g> and password <password> informations ." parameters:"hakki.degirmenci.eee@g" parameters:"password" > > 
+27-08-2022 21:47:30.167 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gm\" and password \"password\" informations ." > 
+27-08-2022 21:47:30.167 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gm> and password <password> informations ." parameters:"hakki.degirmenci.eee@gm" parameters:"password" > > 
+27-08-2022 21:47:30.457 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gma\" and password \"password\" informations ." > 
+27-08-2022 21:47:30.457 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gma> and password <password> informations ." parameters:"hakki.degirmenci.eee@gma" parameters:"password" > > 
+27-08-2022 21:47:30.622 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmai\" and password \"password\" informations ." > 
+27-08-2022 21:47:30.630 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmai> and password <password> informations ." parameters:"hakki.degirmenci.eee@gmai" parameters:"password" > > 
+27-08-2022 21:47:30.788 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail\" and password \"password\" informations ." > 
+27-08-2022 21:47:30.788 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail> and password <password> informations ." parameters:"hakki.degirmenci.eee@gmail" parameters:"password" > > 
+27-08-2022 21:47:31.058 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.\" and password \"password\" informations ." > 
+27-08-2022 21:47:31.063 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.> and password <password> informations ." parameters:"hakki.degirmenci.eee@gmail." parameters:"password" > > 
+27-08-2022 21:47:31.261 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.c\" and password \"password\" informations ." > 
+27-08-2022 21:47:31.268 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.c> and password <password> informations ." parameters:"hakki.degirmenci.eee@gmail.c" parameters:"password" > > 
+27-08-2022 21:47:31.426 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.co\" and password \"password\" informations ." > 
+27-08-2022 21:47:31.430 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.co> and password <password> informations ." parameters:"hakki.degirmenci.eee@gmail.co" parameters:"password" > > 
+27-08-2022 21:47:31.624 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"password\" informations ." > 
+27-08-2022 21:47:31.624 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <password> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"password" > > 
+27-08-2022 21:47:42.021 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:47:42.022 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:48:22.134 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6\" informations ." > 
+27-08-2022 21:48:22.148 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6" > > 
+27-08-2022 21:48:22.537 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T\" informations ." > 
+27-08-2022 21:48:22.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T" > > 
+27-08-2022 21:48:23.357 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5\" informations ." > 
+27-08-2022 21:48:23.357 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5" > > 
+27-08-2022 21:48:24.473 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5l\" informations ." > 
+27-08-2022 21:48:24.473 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5l> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5l" > > 
+27-08-2022 21:48:24.674 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lu\" informations ." > 
+27-08-2022 21:48:24.674 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lu> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lu" > > 
+27-08-2022 21:48:24.838 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lup\" informations ." > 
+27-08-2022 21:48:24.838 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lup> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lup" > > 
+27-08-2022 21:48:25.241 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupd\" informations ." > 
+27-08-2022 21:48:25.241 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupd> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupd" > > 
+27-08-2022 21:48:25.461 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx\" informations ." > 
+27-08-2022 21:48:25.468 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx" > > 
+27-08-2022 21:48:25.813 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx8\" informations ." > 
+27-08-2022 21:48:25.813 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8" > > 
+27-08-2022 21:48:26.440 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx8.\" informations ." > 
+27-08-2022 21:48:26.455 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+27-08-2022 21:48:30.602 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:48:30.604 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:48:33.747 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:48:33.750 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:48:33.892 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"c" > 
+27-08-2022 21:48:33.892 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"c" parameterizedStepValue:"c" > > 
+27-08-2022 21:48:33.908 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+27-08-2022 21:48:33.915 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > allSteps:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 21:48:33.915 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+27-08-2022 21:48:33.915 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > filepath:"C:\\BAYKAR.QA.AUTOMATION\\specs\\Main.cpt" lineNumber:2 > > 
+27-08-2022 21:48:40.332 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:48:40.334 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:48:42.488 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+27-08-2022 21:48:42.491 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+27-08-2022 21:48:42.570 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+27-08-2022 21:48:42.583 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > allSteps:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+27-08-2022 21:48:42.583 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+27-08-2022 21:48:42.583 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > filepath:"C:\\BAYKAR.QA.AUTOMATION\\specs\\Main.cpt" lineNumber:2 > > 
+27-08-2022 21:48:45.537 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+27-08-2022 21:48:45.543 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 21:48:52.743 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:48:52.744 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 21:48:52.747 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:48:52.748 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 21:49:44.045 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx8.\" informations ." > 
+27-08-2022 21:49:44.055 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Fill gmail {} and password {} informations ." parameterizedStepValue:"* Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+27-08-2022 21:49:44.056 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Click Captcha ." > 
+27-08-2022 21:49:44.056 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Click Captcha ." parameterizedStepValue:"* Click Captcha ." > > 
+27-08-2022 22:01:43.088 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 22:01:43.089 [Gauge] [DEBUG] Found 2 files
+27-08-2022 22:01:43.092 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 22:01:43.092 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:01:43.092 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 22:01:43.092 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 22:01:43.092 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 22:01:43.092 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64785
+27-08-2022 22:01:44.471 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+27-08-2022 22:01:44.480 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 22:01:44.637 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:01:44.648 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:01:44.665 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:01:44.665 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:02:19.756 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 22:02:19.756 [Gauge] [DEBUG] Found 2 files
+27-08-2022 22:02:19.759 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 22:02:19.759 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:02:19.760 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 22:02:19.760 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 22:02:19.760 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 22:02:19.760 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64834
+27-08-2022 22:02:20.799 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+27-08-2022 22:02:20.812 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 22:02:20.938 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:02:20.944 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:02:20.961 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:02:20.961 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:02:41.089 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 22:02:41.090 [Gauge] [DEBUG] Found 2 files
+27-08-2022 22:02:41.090 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 22:02:41.090 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:02:41.091 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 22:02:41.091 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 22:02:41.091 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 22:02:41.091 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64877
+27-08-2022 22:02:42.323 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+27-08-2022 22:02:42.323 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 22:02:42.518 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:02:42.518 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:02:42.538 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:02:42.538 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:03:07.125 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 22:03:07.125 [Gauge] [DEBUG] Found 2 files
+27-08-2022 22:03:07.127 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 22:03:07.127 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:03:07.128 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 22:03:07.128 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 22:03:07.128 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 22:03:07.128 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64921
+27-08-2022 22:03:08.791 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+27-08-2022 22:03:08.791 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 22:03:08.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:03:08.966 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:03:08.991 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:03:08.995 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:03:11.683 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx8.\" informations ." > 
+27-08-2022 22:03:11.687 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+27-08-2022 22:03:11.735 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Captcha ." > 
+27-08-2022 22:03:11.737 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Captcha ." parameterizedStepValue:"Click Captcha ." > > 
+27-08-2022 22:03:57.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com and password \"6T5lupdx8." > 
+27-08-2022 22:03:57.512 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {}6T5lupdx8." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com and password >6T5lupdx8." parameters:"hakki.degirmenci.eee@gmail.com and password " > > 
+27-08-2022 22:04:02.538 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail hakki.degirmenci.eee@gmail.com and password \"6T5lupdx8.\" informations ." > 
+27-08-2022 22:04:02.539 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail hakki.degirmenci.eee@gmail.com and password {} informations ." parameterizedStepValue:"Fill gmail hakki.degirmenci.eee@gmail.com and password <6T5lupdx8.> informations ." parameters:"6T5lupdx8." > > 
+27-08-2022 22:04:15.250 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password 6T5lupdx8." > 
+27-08-2022 22:04:15.254 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password 6T5lupdx8." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password 6T5lupdx8." parameters:"hakki.degirmenci.eee@gmail.com" > > 
+27-08-2022 22:04:57.920 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 22:04:57.921 [Gauge] [DEBUG] Found 2 files
+27-08-2022 22:04:57.924 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 22:04:57.924 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:04:57.924 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 22:04:57.924 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 22:04:57.924 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 22:04:57.925 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65010
+27-08-2022 22:05:16.488 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 22:05:16.488 [Gauge] [DEBUG] Found 2 files
+27-08-2022 22:05:16.490 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 22:05:16.490 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:05:16.491 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 22:05:16.491 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 22:05:16.491 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 22:05:16.491 [Gauge] [INFO] Gauge daemon initialized and listening on port: 65043
+27-08-2022 22:05:23.174 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+27-08-2022 22:05:23.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 22:05:23.280 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:05:23.280 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:05:23.285 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:05:23.289 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:16:38.822 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 22:16:38.822 [Gauge] [DEBUG] Found 2 files
+27-08-2022 22:16:38.829 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 22:16:38.829 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:16:38.835 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 22:16:38.835 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 22:16:38.835 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 22:16:38.835 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50144
+27-08-2022 22:16:41.027 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+27-08-2022 22:16:41.036 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 22:16:41.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:16:41.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:16:41.202 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:16:41.202 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:17:49.510 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 22:17:49.512 [Gauge] [DEBUG] Found 2 files
+27-08-2022 22:17:49.515 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 22:17:49.515 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:17:49.518 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 22:17:49.518 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 22:17:49.518 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 22:17:49.518 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50213
+27-08-2022 22:19:28.942 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+27-08-2022 22:19:28.942 [Gauge] [DEBUG] Found 2 files
+27-08-2022 22:19:28.946 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+27-08-2022 22:19:28.948 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:19:28.949 [Gauge] [INFO] Initializing specs cache with 1 specs
+27-08-2022 22:19:28.949 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+27-08-2022 22:19:28.949 [Gauge] [INFO] Initializing steps cache with 2 steps
+27-08-2022 22:19:28.949 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50261
+27-08-2022 22:20:05.226 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+27-08-2022 22:20:05.232 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+27-08-2022 22:20:05.232 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx8.\" informations ." > 
+27-08-2022 22:20:05.232 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Fill gmail {} and password {} informations ." parameterizedStepValue:"* Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+27-08-2022 22:20:05.233 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Click Captcha ." > 
+27-08-2022 22:20:05.240 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Click Captcha ." parameterizedStepValue:"* Click Captcha ." > > 
+27-08-2022 22:20:05.242 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:20:05.243 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:20:06.994 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <password> informations ." > 
+27-08-2022 22:20:06.998 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <gmail> and password <password> informations ." parameters:"gmail" parameters:"password" > > 
+27-08-2022 22:20:06.999 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Captcha ." > 
+27-08-2022 22:20:07.004 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Captcha ." parameterizedStepValue:"Click Captcha ." > > 
+27-08-2022 22:20:08.505 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx8.\" informations ." > 
+27-08-2022 22:20:08.510 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+27-08-2022 22:20:09.762 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+27-08-2022 22:20:09.772 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+27-08-2022 22:53:36.700 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+27-08-2022 22:53:36.701 [Gauge] [INFO] Spec file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+28-08-2022 01:03:50.125 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+28-08-2022 01:03:50.125 [Gauge] [DEBUG] Found 2 files
+28-08-2022 01:03:50.128 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+28-08-2022 01:03:50.128 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 01:03:50.128 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 01:04:41.155 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+28-08-2022 01:04:41.155 [Gauge] [DEBUG] Found 2 files
+28-08-2022 01:04:41.157 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+28-08-2022 01:04:41.157 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 01:04:41.157 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-08-2022 01:04:41.157 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+28-08-2022 01:04:41.157 [Gauge] [INFO] Initializing steps cache with 2 steps
+28-08-2022 01:04:41.157 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55170
+28-08-2022 01:04:43.174 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+28-08-2022 01:04:43.174 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+28-08-2022 01:04:43.368 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <password> informations ." > 
+28-08-2022 01:04:43.368 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <gmail> and password <password> informations ." parameters:"gmail" parameters:"password" > > 
+28-08-2022 01:04:43.371 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Captcha ." > 
+28-08-2022 01:04:43.371 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Captcha ." parameterizedStepValue:"Click Captcha ." > > 
+28-08-2022 01:04:43.372 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+28-08-2022 01:04:43.372 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+28-08-2022 01:04:43.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+28-08-2022 01:04:43.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+28-08-2022 01:04:48.282 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx8.\" informations ." > 
+28-08-2022 01:04:48.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Fill gmail {} and password {} informations ." parameterizedStepValue:"* Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+28-08-2022 01:04:48.294 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Click Captcha ." > 
+28-08-2022 01:04:48.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Click Captcha ." parameterizedStepValue:"* Click Captcha ." > > 
+28-08-2022 01:08:38.044 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click E ." > 
+28-08-2022 01:08:38.045 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click E ." parameterizedStepValue:"Click E ." > > 
+28-08-2022 01:08:39.577 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Enter ." > 
+28-08-2022 01:08:39.583 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Enter ." parameterizedStepValue:"Click Enter ." > > 
+28-08-2022 01:11:43.625 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx8.\" informations ." > 
+28-08-2022 01:11:43.630 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+28-08-2022 01:11:45.180 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 01:11:45.182 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 01:11:46.835 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+28-08-2022 01:11:46.838 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+28-08-2022 01:11:48.402 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"C" > 
+28-08-2022 01:11:48.402 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"C" parameterizedStepValue:"C" > > 
+28-08-2022 01:11:48.409 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+28-08-2022 01:11:48.420 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Click Captcha ." parameterizedStepValue:"Click Captcha ." > allSteps:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > allSteps:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+28-08-2022 01:11:48.421 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+28-08-2022 01:11:48.432 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > filepath:"C:\\BAYKAR.QA.AUTOMATION\\specs\\Main.cpt" lineNumber:2 > > 
+28-08-2022 01:11:55.988 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 01:11:55.989 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 01:13:05.602 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Click Enter ." > 
+28-08-2022 01:13:05.602 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Click Enter ." parameterizedStepValue:"* Click Enter ." > > 
+28-08-2022 11:52:59.571 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+28-08-2022 11:52:59.573 [Gauge] [DEBUG] Found 2 files
+28-08-2022 11:52:59.591 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+28-08-2022 11:52:59.591 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 11:52:59.591 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 12:12:34.154 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+28-08-2022 12:12:34.154 [Gauge] [DEBUG] Found 2 files
+28-08-2022 12:12:34.158 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+28-08-2022 12:12:34.158 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 12:12:34.160 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-08-2022 12:12:34.160 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+28-08-2022 12:12:34.160 [Gauge] [INFO] Initializing steps cache with 2 steps
+28-08-2022 12:12:34.161 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63769
+28-08-2022 12:12:37.106 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+28-08-2022 12:12:37.106 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+28-08-2022 12:12:37.262 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <password> informations ." > 
+28-08-2022 12:12:37.262 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <gmail> and password <password> informations ." parameters:"gmail" parameters:"password" > > 
+28-08-2022 12:12:37.290 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Captcha ." > 
+28-08-2022 12:12:37.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Captcha ." parameterizedStepValue:"Click Captcha ." > > 
+28-08-2022 12:12:37.294 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Enter ." > 
+28-08-2022 12:12:37.294 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Enter ." parameterizedStepValue:"Click Enter ." > > 
+28-08-2022 12:12:37.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+28-08-2022 12:12:37.296 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+28-08-2022 12:12:37.456 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+28-08-2022 12:12:37.456 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+28-08-2022 12:13:35.530 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Fill gmail \"hakki.degirmenci.eee@gmail.com\" and password \"6T5lupdx8.\" informations ." > 
+28-08-2022 12:13:35.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Fill gmail {} and password {} informations ." parameterizedStepValue:"* Fill gmail <hakki.degirmenci.eee@gmail.com> and password <6T5lupdx8.> informations ." parameters:"hakki.degirmenci.eee@gmail.com" parameters:"6T5lupdx8." > > 
+28-08-2022 12:13:35.544 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Click Captcha ." > 
+28-08-2022 12:13:35.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Click Captcha ." parameterizedStepValue:"* Click Captcha ." > > 
+28-08-2022 12:13:35.544 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* Click Enter ." > 
+28-08-2022 12:13:35.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* Click Enter ." parameterizedStepValue:"* Click Enter ." > > 
+28-08-2022 12:43:34.978 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+28-08-2022 12:43:34.979 [Gauge] [DEBUG] Found 2 files
+28-08-2022 12:43:34.981 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+28-08-2022 12:43:34.981 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 12:43:34.982 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-08-2022 12:43:34.982 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+28-08-2022 12:43:34.982 [Gauge] [INFO] Initializing steps cache with 2 steps
+28-08-2022 12:43:34.982 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64081
+28-08-2022 12:43:37.712 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+28-08-2022 12:43:37.712 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+28-08-2022 12:43:37.825 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <password> informations ." > 
+28-08-2022 12:43:37.828 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <gmail> and password <password> informations ." parameters:"gmail" parameters:"password" > > 
+28-08-2022 12:43:37.828 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Captcha ." > 
+28-08-2022 12:43:37.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Captcha ." parameterizedStepValue:"Click Captcha ." > > 
+28-08-2022 12:43:37.829 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Enter ." > 
+28-08-2022 12:43:37.829 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Enter ." parameterizedStepValue:"Click Enter ." > > 
+28-08-2022 12:43:37.830 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+28-08-2022 12:43:37.830 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+28-08-2022 12:43:38.403 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+28-08-2022 12:43:38.412 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+28-08-2022 12:46:42.147 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+28-08-2022 12:46:42.148 [Gauge] [DEBUG] Found 2 files
+28-08-2022 12:46:42.151 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+28-08-2022 12:46:42.151 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 12:46:42.152 [Gauge] [INFO] Initializing specs cache with 1 specs
+28-08-2022 12:46:42.152 [Gauge] [DEBUG] Adding specs from C:\BAYKAR.QA.AUTOMATION\specs\example.spec
+28-08-2022 12:46:42.152 [Gauge] [INFO] Initializing steps cache with 2 steps
+28-08-2022 12:46:42.152 [Gauge] [INFO] Gauge daemon initialized and listening on port: 64142
+28-08-2022 12:46:43.714 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.1 : Go Login Page and Check it." > 
+28-08-2022 12:46:43.722 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.1 : Go Login Page and Check it." parameterizedStepValue:"TC2.1 : Go Login Page and Check it." > > 
+28-08-2022 12:46:43.971 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Fill gmail <gmail> and password <password> informations ." > 
+28-08-2022 12:46:43.971 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Fill gmail {} and password {} informations ." parameterizedStepValue:"Fill gmail <gmail> and password <password> informations ." parameters:"gmail" parameters:"password" > > 
+28-08-2022 12:46:43.986 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Captcha ." > 
+28-08-2022 12:46:43.986 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Captcha ." parameterizedStepValue:"Click Captcha ." > > 
+28-08-2022 12:46:43.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click Enter ." > 
+28-08-2022 12:46:43.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click Enter ." parameterizedStepValue:"Click Enter ." > > 
+28-08-2022 12:46:43.988 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"TC2.2: Fill information,be login and check it." > 
+28-08-2022 12:46:43.988 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+28-08-2022 12:46:45.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" TC2.2: Fill information,be login and check it." > 
+28-08-2022 12:46:45.046 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"TC2.2: Fill information,be login and check it." parameterizedStepValue:"TC2.2: Fill information,be login and check it." > > 
+28-08-2022 12:55:09.276 [Gauge] [INFO] Watching directory: C:\BAYKAR.QA.AUTOMATION\specs
+28-08-2022 12:55:09.277 [Gauge] [DEBUG] Found 2 files
+28-08-2022 12:55:09.279 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+28-08-2022 12:55:09.279 [Gauge] [DEBUG] Adding concepts from C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
+28-08-2022 12:55:09.279 [Gauge] [INFO] Concept file added / modified: C:\BAYKAR.QA.AUTOMATION\specs\Main.cpt
